@@ -1,0 +1,49 @@
+:root {
+  /* Core Surfaces */
+  --bg-page: #fffdf9;
+  --bg-secondary: #f6f3ee;
+  --bg-card: #ffffff;
+  --bg-accent-soft: #fff3e8;
+  --bg-accent-tint: #ffedd5;
+
+  /* Brand & Accents */
+  --accent-primary: #ea580c;
+  --accent-primary-hover: #c2410c;
+  --accent-dark: #9a3412;
+
+  /* Typography & Borders */
+  --text-primary: #221f1b;
+  --text-secondary: #68625c;
+  --text-muted: #8a837b;
+  --border-subtle: #eae3da;
+  --border-strong: #d6cdc2;
+
+  /* Semantic Status Colors */
+  --veg-green: #15803d;
+  --veg-bg: #dcfce7;
+  --nonveg-red: #dc2626;
+  --nonveg-bg: #fee2e2;
+  --error-red: #b91c1c;
+  --error-bg: #fef2f2;
+  --rating-green: #166534;
+  --info-blue: #1d4ed8;
+  --info-bg: #dbeafe;
+  --amber-text: #b45309;
+  --amber-bg: #fef3c7;
+
+  /* Typography Scale */
+  --font-sans: 'Nunito Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  /* Radii & Elevation */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-pill: 999px;
+  --shadow-card: 0 2px 12px rgba(34, 31, 27, 0.05);
+  --shadow-hover: 0 10px 24px rgba(34, 31, 27, 0.09);
+  --shadow-header: 0 2px 10px rgba(34, 31, 27, 0.04);
+
+  /* Layout */
+  --container-max: 1200px;
+}
+
